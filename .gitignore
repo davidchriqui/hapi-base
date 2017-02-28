@@ -1,0 +1,11 @@
+.*.env
+.DS_Store
+.env
+.npmrc
+Archive.zip
+config/application.json
+config/database.json
+dist
+logs
+node_modules
+npm-debug.log*
