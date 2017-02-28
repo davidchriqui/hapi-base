@@ -54,6 +54,7 @@
     "nock": "^9.0.9",
     "sinon": "^1.17.7",
     "sql-fixtures": "^1.0.0",
-    "standard": "^8.6.0"
+    "standard": "^8.6.0",
+    "yargs": "^6.6.0"
   }
 }
